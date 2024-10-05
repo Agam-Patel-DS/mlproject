@@ -1,0 +1,5 @@
+[2024-10-05 10:14:39,113] 160 numexpr.utils - INFO - NumExpr defaulting to 2 threads.
+[2024-10-05 10:14:46,042] 23 root - INFO - Entered the data ingestion method or component
+[2024-10-05 10:14:46,168] 27 root - INFO - Read the dataset as dataframe!
+[2024-10-05 10:14:46,225] 33 root - INFO - train test split initiated
+[2024-10-05 10:14:46,284] 41 root - INFO - Ingestion of the data in completed

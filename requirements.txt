@@ -4,5 +4,8 @@ seaborn
 matplotlib
 dill
 xgboost
+scikit-learn
+catboost
+Flask
 pickle5
 #-e .
